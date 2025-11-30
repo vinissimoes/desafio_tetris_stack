@@ -4,6 +4,8 @@ Esse repositório contém os três níveis do meu projeto de Estrutura de Dados,
 
 Eu tentei escrever tudo da forma mais simples e clara possível, porque a ideia foi realmente aprender mexendo.
 
+
+
  
  NIVEL NOVATO – tetris_novato.c
 
